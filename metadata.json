@@ -1,0 +1,10 @@
+{
+  "name": "GPS Mobile Phone Tracking System",
+  "description": "BTech networking and web project demonstrating real-time mobile GPS tracking, browser Geolocation API, OpenStreetMap with Leaflet, client-server networking, and MySQL/PHP backend architecture.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
